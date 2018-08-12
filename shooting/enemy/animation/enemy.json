@@ -1,0 +1,51 @@
+{"frames": {
+
+"enemy1-dot-1.png":
+{
+	"frame": {"x":0,"y":0,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"enemy1-dot-2.png":
+{
+	"frame": {"x":300,"y":0,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"enemy1-dot-3.png":
+{
+	"frame": {"x":600,"y":0,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300},
+	"anchor": {"x":0.5,"y":0.5}
+},
+"enemy1-dot-4.png":
+{
+	"frame": {"x":900,"y":0,"w":300,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":300,"h":300},
+	"sourceSize": {"w":300,"h":300},
+	"anchor": {"x":0.5,"y":0.5}
+}},
+"animations": {
+	"enemy1-dot": ["enemy1-dot-1.png","enemy1-dot-2.png","enemy1-dot-3.png","enemy1-dot-4.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "enemy.png",
+	"format": "RGBA8888",
+	"size": {"w":1200,"h":300},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:725c37fe68561b9365b88e37da263f90:3aedcccc3e0be4a2a807fd3793ef6347:a99356c10d69482e9bee53d25c3d05e1$"
+}
+}
